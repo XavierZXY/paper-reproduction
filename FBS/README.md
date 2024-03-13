@@ -1,7 +1,7 @@
 # FBS
 
 ---
-An reproduction of the paper "FBS: A Fast Block Matching Algorithm for Motion Estimation".
+An reproduction of the paper "Dynamic Channel Pruning: Feature Boosting and Suppression".
 
 ## Paper
 
